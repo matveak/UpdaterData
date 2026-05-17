@@ -3,5 +3,10 @@
     "owner": "matveak",
     "repo": "UpdaterData",
     "name": "main (NF 1.21.1)"
+  }, 
+  {
+    "owner": "matveak",
+    "repo": "Promience-2",
+    "name": "Promience-2(FABRIC 1.20.1)"
   }
 ]
